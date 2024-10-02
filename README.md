@@ -23,12 +23,6 @@
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
-## My WakaTime Stats
-
-[![wakatime](https://wakatime.com/badge/user/your_wakatime_user_id.svg)](https://wakatime.com/@jockehaansen)
-
-<!-- To show a detailed dashboard of your stats -->
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen)
 
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen&theme=dark)
 
