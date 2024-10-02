@@ -24,8 +24,8 @@
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
 
 ## 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen&theme=dark)
-##
+<!-- ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen&theme=dark)
+## -->
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=jockehaansen&show_icons=true&count_private=true&theme=dark) ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jockehaansen&theme=dark)
 
 
