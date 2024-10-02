@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Bookshelf
 - 🌱 I’m currently learning React.js
 - 👯 I’m looking to collaborate on projects
-- 📖 I´m currently a Javadeveloper student
+- 📖 I’m currently a Javadeveloper student
   
  ## 📫Connect with me 
 
