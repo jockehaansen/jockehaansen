@@ -30,5 +30,5 @@
 <!-- To show a detailed dashboard of your stats -->
 ![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen)
 
-![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen&theme=dark&layout=compact)
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen&theme=dark)
 
