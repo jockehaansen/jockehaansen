@@ -1,16 +1,31 @@
 ## Hi there 👋
 
-<!--
-**jockehaansen/jockehaansen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 🔭 I’m currently working on Bookshelf
+- 🌱 I’m currently learning React.js
+- 👯 I’m looking to collaborate on projects
+- 📖 I´m currently a Javadeveloper student
+  
+ ## 📫Connect with me 
+
+[![GitHub](https://img.shields.io/badge/GitHub-000?logo=github&logoColor=white)](https://github.com/jockehaansen)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://linkedin.com/in/joakim-lykke-hansen)
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:jocke.hansen@outlook.com)
+
+## Technologies I Work With
+
+![Java](https://img.shields.io/badge/Java-007396?logo=java&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![SQL](https://img.shields.io/badge/SQL-003B57?logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?logo=css3&logoColor=white)
+
+## My WakaTime Stats
+
+[![wakatime](https://wakatime.com/badge/user/your_wakatime_user_id.svg)](https://wakatime.com/@jockehaansen)
+
+<!-- To show a detailed dashboard of your stats -->
+![WakaTime Stats](https://github-readme-stats.vercel.app/api/wakatime?username=jockehaansen)
