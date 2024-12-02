@@ -2,10 +2,10 @@
 
 
 
-- 🔭 I’m currently working on Bookshelf
-- 🌱 I’m currently learning React.js
+- 🔭 I’m currently at Linespotting AB
+- 🌱 I’m currently learning React.js & ASP.NET
 - 👯 I’m looking to collaborate on projects
-- 📖 I’m currently a Javadeveloper student
+- 📖 I’m currently a Software Developer student
   
  ## 📫Connect with me 
 
