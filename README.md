@@ -1,7 +1,6 @@
 ## Hi there 👋
 
 
-
 - 🔭 I’m currently at Digital Engine AB
 - 🌱 I’m currently learning Azure & ASP.NET
 - 👯 I’m looking to collaborate on projects
