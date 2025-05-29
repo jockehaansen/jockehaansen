@@ -4,7 +4,6 @@
 - 🔭 I’m currently at Digital Engine AB
 - 🌱 I’m currently learning Azure & ASP.NET
 - 👯 I’m looking to collaborate on projects
-- 📖 I’m currently a Software Developer student
   
  ## 📫Connect with me 
 
