@@ -39,11 +39,3 @@ Also experienced with Unity and Blender for game development and 3D workflows.
 ### Game Development & 3D
 ![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white)
 ![Blender](https://img.shields.io/badge/Blender-111111?style=flat-square&logo=blender&logoColor=F5792A)
-
----
-
-## Stats
-
-![](https://github-readme-stats.vercel.app/api?username=jockeehaansen&theme=transparent&hide_border=true&show_icons=true)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=jockeehaansen&theme=transparent&hide_border=true&layout=compact)
