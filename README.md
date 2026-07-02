@@ -20,9 +20,9 @@ Also experienced with Unity and Blender for game development and 3D workflows.
 
 ### Backend
 ![Java](https://img.shields.io/badge/Java-111111?style=flat-square&logo=openjdk&logoColor=white)
+[![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&logoColor=white)](#)
 ![Spring Boot](https://img.shields.io/badge/Spring_Boot-111111?style=flat-square&logo=springboot&logoColor=6DB33F)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square&logo=postgresql&logoColor=336791)
-![MySQL](https://img.shields.io/badge/MySQL-111111?style=flat-square&logo=mysql&logoColor=4479A1)
 
 ### Frontend
 ![React](https://img.shields.io/badge/React-111111?style=flat-square&logo=react&logoColor=61DAFB)
@@ -34,7 +34,6 @@ Also experienced with Unity and Blender for game development and 3D workflows.
 ![Docker](https://img.shields.io/badge/Docker-111111?style=flat-square&logo=docker&logoColor=2496ED)
 ![Git](https://img.shields.io/badge/Git-111111?style=flat-square&logo=git&logoColor=F05032)
 ![Linux](https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=FCC624)
-![Arch Linux](https://img.shields.io/badge/Arch-111111?style=flat-square&logo=arch-linux&logoColor=1793D1)
 
 ### Game Development & 3D
 ![Unity](https://img.shields.io/badge/Unity-111111?style=flat-square&logo=unity&logoColor=white)
